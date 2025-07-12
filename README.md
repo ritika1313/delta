@@ -1,2 +1,2 @@
 # delta
-This is for the learning.
+This is for the learning
